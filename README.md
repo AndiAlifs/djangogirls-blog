@@ -1,4 +1,4 @@
-<p align="center"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height=300px></p>
+<p align="center"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/django-community-logo.png"></p>
 
 # djangogirls-blog
 Is a implementation code repository from [djangogirls tutorial](https://tutorial.djangogirls.org/en/)
